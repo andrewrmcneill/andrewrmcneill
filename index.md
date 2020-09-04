@@ -1,5 +1,5 @@
 ## Biography
-Andrew McNeill is a senior lecturer in Psychology at Northumbria University, Newcastle. He is a social psychologist whose research includes work in intergroup conflict, discursive psychology, and human-computer interaction (HCI). He is programme lea	der for the BSc (Hons) Psychology programme at Northumbria University.
+Andrew McNeill is a senior lecturer in Psychology at Northumbria University, Newcastle. He is a social psychologist whose research includes work in intergroup conflict, discursive psychology, and human-computer interaction (HCI). He is programme leader for the BSc (Hons) Psychology programme at Northumbria University.
 
 ![Image](./amphoto.jpg)
 
