@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-layout: page
+layout: default
 title: "Andrew McNeill, PhD"
 include:
  - _posts
