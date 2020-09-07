@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Test Post"
 date: 2020-09-07 14:08:00 -0000
 categories: CATEGORY-1 CATEGORY-2
+post_url: testpost
 ---
 
 # Hello
 This is a test post.
 
-**
+*End*
